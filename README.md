@@ -11,5 +11,9 @@ The purpose of this project is to develop an automated exam question generator f
 5. Distractors options can be generated using Wordnet and Sense2Vec
 
 ## Requirements
-.Python 3.x
-.NLTK library
+1. Python 3.x
+2. NLTK library
+
+## installation
+1. Clone the repository: git clone https://github.com/saicharan2002/Question_Generation.git
+2. Install the NLTK library: pip install nltk
